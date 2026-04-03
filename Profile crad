@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html> 
+<head>
+  <title>MY PROFILE CARD</title>
+  <link rel="stylesheet" href="style2.css">
+</head>
+<body> 
+  <div class="card">
+    <h1>SHAIK FAIZULLA</h1>
+  <img src="https://i.postimg.cc/jdjM4VpD/IMG-20260325-WA0018.jpg" alt="MY IMAGE">
+    <p>
+      Always trying to learn new skills<br>
+      Exploring myself
+    </p>
+    <a href="https://www.instagram.com/shaik_faizulla_0?igsh=YTJlZnF1Z2N1dngx" target="_blank">Visit my intagram account</a>
+  </div>
+</body>
+</html>
