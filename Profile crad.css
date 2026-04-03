@@ -1,0 +1,35 @@
+body {
+  background-color: skyblue;
+  font-family: Frontage outline;
+}
+.card {
+  background-color: white;
+  width: 300px;
+  border-radius: 15px;
+  margin: 100px auto;
+  padding: 30px 20px;
+  text-align: center;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+}
+.card h1{
+  color: lightpink;
+}
+.card img{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  box-shadow: 0 4px 20px lightpink;
+}
+.card p{
+  color: lightpink;
+}
+.card a{
+  background-color: lightpink;
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: white;
+  margin-top: 10px;
+  text-decoration: none;
+  box-shadow: 0 4px 20px lightpink;
+}
